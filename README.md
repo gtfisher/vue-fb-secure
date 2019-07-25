@@ -1,5 +1,15 @@
 # fb-secure
 
+cp  ./public/try/config-example.js ./public/try/config.js
+
+ add you firebase  config to this
+
+ cp ./src/firebase-example.js ./src/firebase.js
+
+ add you firebase  config to this
+
+
+
 ## Project setup
 ```
 npm install
